@@ -1,0 +1,8 @@
+node_modules
+.git
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
+deploy_mnemonic.key
+package-lock.json
